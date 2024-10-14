@@ -9,7 +9,6 @@ Original file is located at
 ## Load Model
 """
 
-!pip install streamlit
 
 import numpy as np
 import pandas as pd
